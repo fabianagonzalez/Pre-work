@@ -1,7 +1,7 @@
 ## HelloWord2
 
 ### App Description
-`TODO://` Add app description
+`TODO://` This App created on Android Studios allows the user to change the color of the text, change the displayed text, and the background display color. Also, the user can reset every change by clicking the background. The App allows all these changes by interacting with different buttons 
 
 ### App Walk-though
 
